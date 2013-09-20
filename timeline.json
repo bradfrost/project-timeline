@@ -1,0 +1,27 @@
+{
+  "projectName": "Hooray Project",
+  "timeline" : [
+    {
+      "stamp": "August 14th, 2013",
+      "content": "Kickoff Meeting",
+      "linkName" : "View Notes",
+      "linkUrl" : "files/kickoff_notes.txt"
+    },
+    {
+      "stamp": "August 9th, 2013",
+      "content": "Sign contract",
+      "linkName" : "View contract",
+      "linkUrl" : "files/contract.pdf"
+    },
+    {
+      "stamp": "August 7th, 2013",
+      "content": "Initial meeting",
+      "linkName" : "Meeting Notes",
+      "linkUrl" : "files/meeting_notes.txt"
+    },
+    {
+      "stamp": "July 13th, 2013",
+      "content": "Initial contact"
+    }
+  ]
+}
